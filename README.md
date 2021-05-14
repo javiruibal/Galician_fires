@@ -5,15 +5,24 @@ Puesto que no podemos predecir el factor humano, intentaremos predecir, a partir
 Adicionalmente, se ha realizado un estudio de la localización de las diferentes torres de control ubicadas en Galicia, y cual sería su distribución óptima en función de los incendios registrados dependiendo del número de torres. 
 
 ## Organización del repo: 
-Memoria: Incendios en Galicia.pdf
+### Memoria: 
+Incendios en Galicia.pdf
+### Notebooks:
+1- Limpieza de datos: Limpieza del dataset principal de incendios y agregación de los datos de superficie forestal por municipio
+2- Carga de datos: carga de los datos geográficos y climatológicos y generar nuestra tabla final. 
+3- Predicción de incendios: Modelo de predicción de incendios
+4- Geolocalación de torres de control: Modelo K-means adaptado a distancias geodésicas.
 
+### Front end 
+Función app.py para la ejecución del fron-end. 
 
 
 ##  Datos 
 Todos los datos y los notebooks de este proyecto están disponibles en el siguiente enlace: 
 
+
 ## Ejecución del código
 
-
+Para ejecutarlo, entrar en la carpeta descargada desde la terminal, y ejecutar jupyter-notebook. Evitad mover los diferentes archivos de su ubicación original ya que puede perjudicar la ejecución del código. 
 Para ejecutar el front-end desde local vaya a la carpeta Front_end en la terminal y ejecute "streamlit run app.py"
 
