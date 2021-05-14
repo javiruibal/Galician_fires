@@ -30,3 +30,6 @@ Para ejecutarlo, entrar desde la terminal en la carpeta descargada en el enlace 
 
 Para ejecutar el front-end desde local vaya a la carpeta Front_end en la terminal y ejecute "streamlit run app.py"
 
+## Requisitos
+Librerías necesarias.
+Pandas, numpy, datetime, re, streamlit, matplotlib, seaborn, altair, folium, streamlit-folium, Figure, branca.element, KMeans, sklearn, XGBoost, pylab, ibmlearn, geopy, shapely, SMOTE,
