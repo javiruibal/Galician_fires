@@ -38,8 +38,8 @@ https://drive.google.com/drive/folders/1ro8QAvZongYj6_D6m9lgCDMcEV2q-r7W?usp=sha
 
 Para ejecutar los notebooks, entrar desde la terminal en la carpeta descargada en el enlace anterior y ejecutar jupyter-notebook. Evitad mover los diferentes archivos de su ubicación original ya que puede perjudicar la ejecución del código. 
 
-Para ejecutar el front-end desde local vaya a la carpeta Front_end en la terminal y ejecute "streamlit run app.py"
+Para ejecutar el front-end desde local vaya a la carpeta Front_end y ejecute el script app.py. En la terminal, ejecute "streamlit run app.py"
 
 ## Requisitos
 Librerías necesarias.
-Pandas, numpy, datetime, re, streamlit, matplotlib, seaborn, altair, folium, streamlit-folium, Figure, branca.element, sklearn, XGBoost, pylab, ibmlearn, geopy, shapely, SMOTE,
+Pandas, numpy, datetime, re, streamlit, matplotlib, seaborn, altair, folium, streamlit-folium, Figure, branca.element, sklearn, XGBoost, pylab, ibmlearn, geopy, shapely, SMOTE, xlrd, openpyxl
