@@ -25,12 +25,11 @@ Incendios en Galicia.pdf
 4- Geolocalación de torres de control: Modelo K-means adaptado a distancias geodésicas.
 
 ### Front end 
-Incluye los scripts para la generación del Front-end. Función app.py para la ejecución del fron-end.
-Ejecutar una vez dentro de la carpeta "Front End" que se encuentra disponible para descargar en la URL que mostramos a continuacion.
+Incluye los scripts para la generación del Front-end.
 
 
 ##  Datos 
-Todos los datos y los notebooks de este proyecto están disponibles en el siguiente enlace:
+Todos los datos y los notebooks de este proyecto están disponibles para su descarga en el siguiente enlace:
 
 https://drive.google.com/drive/folders/1ro8QAvZongYj6_D6m9lgCDMcEV2q-r7W?usp=sharing
 
