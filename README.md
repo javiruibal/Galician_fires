@@ -16,7 +16,7 @@ Incendios en Galicia.pdf
   
     3.1- Regresion Log
   
-    3.2- XGBoost - Si NaN
+    3.2- XGBoost - Sin NaN
 
     3.3- XGBoost - Con NaN
 
