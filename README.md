@@ -30,11 +30,12 @@ Función app.py para la ejecución del fron-end.
 
 ##  Datos 
 Todos los datos y los notebooks de este proyecto están disponibles en el siguiente enlace: 
+https://drive.google.com/drive/folders/1ro8QAvZongYj6_D6m9lgCDMcEV2q-r7W?usp=sharing
 
 
 ## Ejecución del código
 
-Para ejecutarlo, entrar desde la terminal en la carpeta descargada en el enlace anterior y ejecutar jupyter-notebook. Evitad mover los diferentes archivos de su ubicación original ya que puede perjudicar la ejecución del código. 
+Para ejecutar los notebooks, entrar desde la terminal en la carpeta descargada en el enlace anterior y ejecutar jupyter-notebook. Evitad mover los diferentes archivos de su ubicación original ya que puede perjudicar la ejecución del código. 
 
 Para ejecutar el front-end desde local vaya a la carpeta Front_end en la terminal y ejecute "streamlit run app.py"
 
