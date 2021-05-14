@@ -4,7 +4,7 @@ En Galicia en los últimos años se han registrado gran cantidad de incendios, e
 Puesto que no podemos predecir el factor humano, intentaremos predecir, a partir de las condiciones meteorológicas registradas, crear un modelo que prediga la posibilidad de un incendio en los principales focos.
 Adicionalmente, se ha realizado un estudio de la localización de las diferentes torres de control ubicadas en Galicia, y cual sería su distribución óptima en función de los incendios registrados dependiendo del número de torres. 
 
-## Organización del repo: 
+## Organización del repo 
 ### Memoria: 
 Incendios en Galicia.pdf
 ### Notebooks:
