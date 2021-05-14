@@ -1,4 +1,4 @@
-# Galician_fires
+# _Incendios en Galicia
 
 En Galicia en los últimos años se han registrado gran cantidad de incendios, es un tema que año tras año es noticia en todos los telediarios. Por ello el objetivo de este proyecto, además de dar visibilidad a la gran cantidad de incendios que hubo en los últimos años, es intentar ayudar a la prevención de incendios a partir de los datos obtenidos de todos los incendios registrados entre los años 2001 y 2015. 
 Puesto que no podemos predecir el factor humano, intentaremos predecir, a partir de las condiciones meteorológicas registradas, crear un modelo que prediga la posibilidad de un incendio en los principales focos.
