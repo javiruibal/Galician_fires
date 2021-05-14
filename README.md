@@ -13,6 +13,11 @@ Incendios en Galicia.pdf
 2- Carga de datos: carga de los datos geográficos y climatológicos y generar nuestra tabla final. 
 
 3- Predicción de incendios: Modelo de predicción de incendios
+  
+  3.1- Regresion Log
+  3.2- XGBoost - Si NaN
+  3.3- XGBoost - Con NaN
+  3.4- XGBoost_Provincia
 
 4- Geolocalación de torres de control: Modelo K-means adaptado a distancias geodésicas.
 
