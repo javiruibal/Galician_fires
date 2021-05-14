@@ -15,8 +15,11 @@ Incendios en Galicia.pdf
 3- Predicción de incendios: Modelo de predicción de incendios
   
   3.1- Regresion Log
+  
   3.2- XGBoost - Si NaN
+
   3.3- XGBoost - Con NaN
+
   3.4- XGBoost_Provincia
 
 4- Geolocalación de torres de control: Modelo K-means adaptado a distancias geodésicas.
