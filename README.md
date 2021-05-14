@@ -42,4 +42,4 @@ Para ejecutar el front-end desde local vaya a la carpeta Front_end en la termina
 
 ## Requisitos
 Librerías necesarias.
-Pandas, numpy, datetime, re, streamlit, matplotlib, seaborn, altair, folium, streamlit-folium, Figure, branca.element, KMeans, sklearn, XGBoost, pylab, ibmlearn, geopy, shapely, SMOTE,
+Pandas, numpy, datetime, re, streamlit, matplotlib, seaborn, altair, folium, streamlit-folium, Figure, branca.element, sklearn, XGBoost, pylab, ibmlearn, geopy, shapely, SMOTE,
