@@ -26,7 +26,7 @@ Todos los datos y los notebooks de este proyecto están disponibles en el siguie
 
 ## Ejecución del código
 
-Para ejecutarlo, entrar en la carpeta descargada desde la terminal, y ejecutar jupyter-notebook. Evitad mover los diferentes archivos de su ubicación original ya que puede perjudicar la ejecución del código. 
+Para ejecutarlo, entrar desde la terminal en la carpeta descargada en el enlace anterior y ejecutar jupyter-notebook. Evitad mover los diferentes archivos de su ubicación original ya que puede perjudicar la ejecución del código. 
 
 Para ejecutar el front-end desde local vaya a la carpeta Front_end en la terminal y ejecute "streamlit run app.py"
 
