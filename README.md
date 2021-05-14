@@ -9,8 +9,11 @@ Adicionalmente, se ha realizado un estudio de la localización de las diferentes
 Incendios en Galicia.pdf
 ### Notebooks:
 1- Limpieza de datos: Limpieza del dataset principal de incendios y agregación de los datos de superficie forestal por municipio
+
 2- Carga de datos: carga de los datos geográficos y climatológicos y generar nuestra tabla final. 
+
 3- Predicción de incendios: Modelo de predicción de incendios
+
 4- Geolocalación de torres de control: Modelo K-means adaptado a distancias geodésicas.
 
 ### Front end 
